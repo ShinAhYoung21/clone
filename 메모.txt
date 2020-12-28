@@ -1,0 +1,7 @@
+<figure>
+  <img>
+  <figcaption></figcaption>
+</figure>
+
+
+<link rel="stylesheet" href="style.css">
