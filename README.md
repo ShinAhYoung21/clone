@@ -17,7 +17,7 @@
               <li>use: html, css</li>
               <li>pinterest style picture alignment</li>
             </ul>
-      </p>
+      </p><br>
       <p>
         <h3>main page & google clone</h3>
           <h5>2020.3.2</h5>
