@@ -7,7 +7,7 @@
       actual practice through clone coding.
     </header>
     
-    <main>
+    <p>
       <h3>in and out</h3>
       <h5>2020.12.28</h5>
         <p>reference about dreaming home interior(in) & exterior(out)</p>
@@ -15,10 +15,7 @@
         <li>use: html, css</li>
         <li>pinterest style picture alignment</li>
       </ul>
-      <br>
-    </main>
-    
-    <footer>
-    </footer>
+    </p>
+    <br>
   </body>
 </html>
