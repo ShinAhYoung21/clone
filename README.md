@@ -15,7 +15,7 @@
             꿈꾸는 집의 인테리어, 익스테리어 참고자료 모음.
             <ul>
               <li>use: html, css</li>
-              <li>reference: <a href="https://opentutorials.org/course/2473/13712">mansory layout</a>
+              <li>reference: <a href="https://opentutorials.org/course/2473/13712">이고잉's tutorial_mansory layout</a>
               <li>pinterest style picture alignment</li>
             </ul>
       </p><br>
