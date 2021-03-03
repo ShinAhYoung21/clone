@@ -5,7 +5,7 @@
     <header>
       <h1>#clone</h1>
       actual practice through clone coding.<br>
-      클론코딩 실습 저장소.
+      <a href="https://shinahyoung21.github.io/clone/" target="_blank">클론코딩 실습 저장소</a>.
     </header>
     <main>
       <p>
